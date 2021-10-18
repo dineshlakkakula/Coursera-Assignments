@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# HTML, CSS, and Javascript for Web Developers
 
-You can use the [editor on GitHub](https://github.com/dineshlakkakula/Coursera-Assignments/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Module 2 Coding Assignment
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is the mockup illustration of the desktop version of the site. Your final result should look very close to this mockup.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Desktop view
+![desktop](https://user-images.githubusercontent.com/51397710/137754481-b5c0d08a-715b-4d5a-8363-9a912f27e0d4.png)
 
-- Bulleted
-- List
+### Tablet view
+![tablet](https://user-images.githubusercontent.com/51397710/137754489-2b71ca1b-5b4b-4121-a1be-07baf17fc64c.png)
 
-1. Numbered
-2. List
+### Mobile view
+![mobile](https://user-images.githubusercontent.com/51397710/137754510-4cf3baa1-ed73-4f04-949f-a60ceb4bfdbd.png)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+### Display deployed page
+```
+https://dineshlakkakula.github.io/Coursera-Assignments/module2-solution/
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dineshlakkakula/Coursera-Assignments/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
