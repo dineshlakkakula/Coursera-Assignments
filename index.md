@@ -19,7 +19,7 @@ Here is the mockup illustration of the desktop version of the site. Your final r
 
 ### Display deployed page
 
-[Click here] (https://dineshlakkakula.github.io/Coursera-Assignments/module2-solution/)
+[This is an external link to display] (https://dineshlakkakula.github.io/Coursera-Assignments/module2-solution/)
 
 
 
