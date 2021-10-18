@@ -18,9 +18,9 @@ Here is the mockup illustration of the desktop version of the site. Your final r
 
 
 ### Display deployed page
-```
+
 https://dineshlakkakula.github.io/Coursera-Assignments/module2-solution/
-```
+
 
 
 
